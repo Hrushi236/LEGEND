@@ -1,0 +1,28 @@
+public class Example15 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}
+
+class Sample4 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("sample4");
+	}
+}
+
+class Sample5 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("sample5");
+	}
+}
+
+/*
+A source file have maximum one class as public.
+in this case source file name should be same as public class name.
+*/
